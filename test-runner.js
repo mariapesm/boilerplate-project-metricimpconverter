@@ -103,4 +103,4 @@ module.exports = emitter;
  *   - `pass`  (test) test passed
  *   - `fail`  (test, err) test failed
  *   - `pending`  (test) test pending
- */
+ */ 
